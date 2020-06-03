@@ -4,6 +4,10 @@ body {
 	background-color: orange;
 }
 
+h1 {  
+        text-align: center; 
+}
+
 .navbar-brand h1 {
 	font-family: Brushstroke, fantasy;
 	color: #000000;
